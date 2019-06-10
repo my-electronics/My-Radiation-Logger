@@ -15,7 +15,7 @@ My Radiation Logger is easy to set up and use: Connect your Arduino with the Gei
 Navigate to "Edit > Serial Port..." and select the COM port of your Arduino and click OK: 
 
 <p align="center">
-<img src="images/My-Radiation-Logger-02.png">
+<img src="Images/My-Radiation-Logger-02.png">
 </p>
 
 The default settings of the Geiger Counter Shield are 9600 8N1. My Radiation Logger is now ready to use. To start click "Start". 
