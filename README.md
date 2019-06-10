@@ -1,6 +1,6 @@
 # My Radiation Logger
 
-My Radiation Logger is an open source software to log and display CPM and doserate data from the Geiger Counter Shield written in Qt/C++:
+My Radiation Logger is an open source software to log and display CPM and doserate data from the [My Electronics Geiger Counter Shield](http://my-electronics.net/geiger-counter-shield) written in Qt/C++:
 <p align="center">
 	<img src="Images/My-Radiation-Logger-01.png">
 </p>
